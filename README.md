@@ -49,7 +49,7 @@ The code here follows along with the tutorials and also includes my own practice
 ---
 
 ## 📚 Resources
-- [CampusX YouTube Playlist on Agentic AI](https://www.youtube.com/@campusx-official)  
+- [CampusX YouTube Playlist on Agentic AI]([https://www.youtube.com/@campusx-official](https://www.youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL))  
 - [LangGraph Documentation](https://python.langchain.com/docs/langgraph/)  
 - [LangChain Documentation](https://python.langchain.com/)  
 
